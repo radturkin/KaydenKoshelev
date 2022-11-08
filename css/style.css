@@ -1,0 +1,114 @@
+body {
+    background: linear-gradient(0.12turn, #3e62f4, #ff57e0);
+    background-attachment: fixed;
+    display: block;
+}
+
+/* div, article, #four, nav, header, main {
+    border: 2px black solid;
+    margin: 5px;
+} */
+
+a {
+    text-decoration: none;
+    color: #3e62f4;
+}
+a:hover {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+}
+
+p {
+    width:100%;
+    float:left;
+    margin: 0 auto;
+    text-align: center;
+}
+
+li {
+    list-style: none;  
+    display: inline;
+    padding: 0px 10px;
+    margin: 0 10px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+
+
+h2 {
+    position: absolute;
+    top: 20%;
+    padding: 50px;
+    right: 30%
+
+}
+
+#bio {
+    float: Left;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+img {
+    width: 33.3%;
+    object-fit: cover;
+    float:left;
+    /* border:.0.3% solid transparent;  */
+
+    
+
+}
+
+nav {
+    /* background: linear-gradient(0.01turn, transparent, #ff57e0, transparent); */
+
+    width: 100vw;
+    position: fixed;
+    top: 0px;
+    background-color: #ff57e0;
+    color: #3e62f4;
+    margin:0 -5px;
+}
+
+nav div {
+    margin:0 auto;
+    width:100vw;
+    float: left;
+    text-align: center;
+    padding: 0px;
+}
+nav ul{
+    width: 100%;
+    padding: 0px;
+    
+}
+
+h1 {
+    font-size: 2rem;
+    padding: 0;
+}
+
+#content {
+    /* border: 2px solid gold; */
+    width: 90%;
+    margin: 0 auto;
+    clear:both;
+    position:fixed;
+    top:20%;
+    background-color: transparent;
+    position: absolute;
+    left:5%;
+  
+}
+
+body {
+    margin: 0 auto;
+    display: block;
+}
+div{
+    border: 1Spx solid black;
+}
