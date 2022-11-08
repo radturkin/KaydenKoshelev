@@ -4,11 +4,6 @@ body {
     display: block;
 }
 
-/* div, article, #four, nav, header, main {
-    border: 2px black solid;
-    margin: 5px;
-} */
-
 a {
     text-decoration: none;
     color: #3e62f4;
@@ -24,6 +19,7 @@ p {
     float:left;
     margin: 0 auto;
     text-align: center;
+    font-size: 1.25rem;
 }
 
 li {
@@ -32,17 +28,7 @@ li {
     padding: 0px 10px;
     margin: 0 10px;
     text-align: center;
-    font-size: 1rem;
-}
-
-
-
-h2 {
-    position: absolute;
-    top: 20%;
-    padding: 50px;
-    right: 30%
-
+    font-size: 1.25rem;
 }
 
 #bio {
@@ -58,14 +44,10 @@ img {
     object-fit: cover;
     float:left;
     /* border:.0.3% solid transparent;  */
-
-    
-
 }
 
 nav {
     /* background: linear-gradient(0.01turn, transparent, #ff57e0, transparent); */
-
     width: 100vw;
     position: fixed;
     top: 0px;
@@ -73,7 +55,6 @@ nav {
     color: #3e62f4;
     margin:0 -5px;
 }
-
 nav div {
     margin:0 auto;
     width:100vw;
@@ -84,12 +65,12 @@ nav div {
 nav ul{
     width: 100%;
     padding: 0px;
-    
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     padding: 0;
+    margin: 5px 0px 0px 0px;
 }
 
 #content {
@@ -102,7 +83,6 @@ h1 {
     background-color: transparent;
     position: absolute;
     left:5%;
-  
 }
 
 body {
