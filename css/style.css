@@ -8,7 +8,7 @@ a {
     text-decoration: none;
     color: #3e62f4;
 }
-a:hover {
+nav a:hover {
     text-decoration: none;
     color: black;
     font-size: 1.5rem;
@@ -105,10 +105,23 @@ footer {
     height: 2.5rem;   
     background: black;
     z-index: 80;
+    text-align: center;
 
 }
 
 #page-container {
     position: relative;
     min-height: 100vh;
+  }
+
+  .fa {
+    padding: 5px;
+    font-size: 1.2rem;
+  }
+
+  span {
+    width: 100%;
+    padding:1rem;
+    text-align: right;
+    float: right;
   }
