@@ -133,7 +133,7 @@ footer {
     float: left;
   }
 
-  #resumeDiv, #representationDiv{
+  #resumeDiv {
     text-align: center;
     width: 70%;
     margin: 0 auto;
@@ -144,10 +144,25 @@ footer {
     background-color: transparent;
     position: absolute;
     padding-bottom: 5rem;
-    
-    
   }
 
+  #representationDiv{
+    text-align: left;
+    width: 70%;
+    margin: 0 auto;
+    clear:both;
+    position:fixed;
+    top:20%;
+    left: 15%;
+    background-color: transparent;
+    position: absolute;
+    padding-bottom: 5rem;
+  }
+
+ .rep_title {
+    margin-top: 10px;
+    margin-left: 10px;
+ } 
   #resume {
     width: 100%;
     object-fit: cover;
