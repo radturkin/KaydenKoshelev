@@ -204,6 +204,12 @@ img.gallery_img {
 
 figure.gallery_item {
     margin: 10px 5px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    
 }
 /* 
 div.gallery ul {
