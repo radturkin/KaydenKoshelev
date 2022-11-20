@@ -131,6 +131,7 @@ footer {
     text-align: left;
     float: left;
     font-size: 1.5rem;
+    padding:.5rem;
   }
 
   #resumeDiv {
