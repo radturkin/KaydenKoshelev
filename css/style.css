@@ -126,6 +126,13 @@ footer {
     float: right;
   }
 
+  span.rep {
+    width: 100%;
+    padding:1rem;
+    text-align: left;
+    float: left;
+  }
+
   #resumeDiv, #representationDiv{
     text-align: center;
     width: 70%;
