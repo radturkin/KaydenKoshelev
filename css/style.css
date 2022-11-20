@@ -224,7 +224,7 @@ div.gallery ul {
 
 
 /* Responsive hack */
-@media only screen and (min-width: 499px) and (max-width: 1212px) {
+/* @media only screen and (min-width: 499px) and (max-width: 1212px) {
 	.wrapper {
 		width: 500px;
 	}
@@ -239,4 +239,4 @@ div.gallery ul {
 		list-style-type: none;
 		margin: 0;
 	}
-}
+} */
