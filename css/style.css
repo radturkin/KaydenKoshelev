@@ -126,7 +126,7 @@ footer {
     float: right;
   }
 
-  #resumeDiv {
+  #resumeDiv, #representationDiv{
     text-align: center;
     width: 70%;
     margin: 0 auto;
