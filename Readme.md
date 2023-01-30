@@ -29,7 +29,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#future">Future Updates</a></li>
+    <li><a href="#Future-Updates">Future Updates</a></li>
   </ol>
 </details>
 
@@ -86,7 +86,7 @@ Rad - RadTurkin@gmail.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- chnages/updates to be made -->
+<!-- Future-Updates -->
 ## Future Updates
 
 -resize old images to match size of new/updated images<br>
