@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://www.kaydenkoshelev.netlify.app">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+   <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
   <h3 align="center">Kaydens Portfolio</h3>
@@ -85,3 +85,12 @@ Rad - RadTurkin@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- chnages/updates to be made -->
+## To DO /Changes / Updates
+
+-resize old images to match size of new/updated images
+-add Logo (review with client)
+-change font style and color, for header (review with client)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
