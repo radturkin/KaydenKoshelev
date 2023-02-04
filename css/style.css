@@ -147,6 +147,18 @@ footer {
     padding-bottom: 5rem;
   }
 
+  #reels {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    clear:both;
+    position:fixed;
+    top:20%;
+    left: 15%;
+    background-color: transparent;
+    position: absolute;
+    padding-bottom: 5rem;
+  }
   #representationDiv{
     text-align: left;
     width: 70%;
