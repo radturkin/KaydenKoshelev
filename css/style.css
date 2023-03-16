@@ -98,7 +98,7 @@ body {
   }
 
 footer {
-    float: left;
+    /* float: left; */
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -106,6 +106,8 @@ footer {
     background: black;
     z-index: 80;
     text-align: center;
+    display: flex;
+    justify-content: space-between;
 
 }
 
@@ -115,7 +117,7 @@ footer {
   }
 
   .fa {
-    padding: 5px;
+    padding: 10px 20px;
     font-size: 1.2rem;
   }
 
@@ -223,6 +225,15 @@ figure.gallery_item {
     margin-inline-end: 40px;
     
 }
+
+/* footer div {
+    width:30%;
+} */
+
+#taylorswiftblankspace, #radlink {
+    width: 15%;
+}
+
 /* 
 div.gallery ul {
 	list-style-type: none;
