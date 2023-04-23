@@ -132,7 +132,7 @@ footer {
     width: 100%;
     text-align: left;
     float: left;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     padding:.5rem;
   }
 
@@ -177,17 +177,23 @@ footer {
     margin-top: 2rem;
 }
 
+ .rep_article {
+    width:30%;
+    float: left;
+    margin-top: 2rem;
+}
+
 
   #representationDiv{
     text-align: left;
-    width: 70%;
+    width: 90%;
     margin: 0 auto;
     clear:both;
     position:fixed;
     top:20%;
-    left: 15%;
+    left: 5%;
     background-color: transparent;
-    position: absolute;
+    position: grid;
     padding-bottom: 5rem;
   }
 
