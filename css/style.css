@@ -210,7 +210,7 @@ div.gallery, .reel3 {
     margin:150px 20px 0px 20px;
 }
 
-img.gallery_img {
+img.gallery_img, .extendedclips {
     width: 100%;
     height: 100%;
     object-fit: contain;
