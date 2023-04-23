@@ -181,19 +181,21 @@ footer {
     width:30%;
     float: left;
     margin-top: 2rem;
+    border: black solid 1px;
+    padding-left: 3rem;
+    box-sizing: border-box;
 }
 
 
   #representationDiv{
-    text-align: left;
-    width: 90%;
+    /* text-align: left; */
+    width: 92%;
     margin: 0 auto;
     clear:both;
-    position:fixed;
+    position:absolute;
     top:20%;
-    left: 5%;
+    left: 4%;
     background-color: transparent;
-    position: grid;
     padding-bottom: 5rem;
   }
 
