@@ -8,6 +8,10 @@ a {
     text-decoration: none;
     color: black;
 }
+
+footer a {
+    color:#3e62f4;
+}
 ul a:hover {
     text-decoration: none;
     color: black;
