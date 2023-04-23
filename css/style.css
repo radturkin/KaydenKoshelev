@@ -76,14 +76,14 @@ h1 {
 
 #content {
     /* border: 2px solid gold; */
-    width: 90%;
+    width: 60%;
     margin: 0 auto;
     clear:both;
     position:fixed;
     top:20%;
     background-color: transparent;
     position: absolute;
-    left:5%;
+    left:20%;
     padding-bottom: 5rem;
 
 }
