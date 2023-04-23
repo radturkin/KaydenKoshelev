@@ -159,12 +159,22 @@ footer {
     left: 15%;
     background-color: transparent;
     position: absolute;
-    padding-bottom: 5rem;
+    padding-bottom: 10rem;
+  }
+
+  .reel{
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  #reel3 {
+    margin-top:3rem;
   }
 
   .extendedclips {
-    width:30%;
+    width:33%;
     float: left;
+    margin-top: 2rem;
 
   }
   #representationDiv{
