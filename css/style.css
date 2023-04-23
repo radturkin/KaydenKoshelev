@@ -198,7 +198,7 @@ footer {
 	margin: 40px auto;
 } */
 
-.gallery {
+.gallery, .reel3 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 40vw);
@@ -216,7 +216,7 @@ img.gallery_img {
     object-fit: contain;
 }
 
-figure.gallery_item {
+figure.gallery_item, .extendedclips {
     margin: 10px 5px;
     display: block;
     margin-block-start: 1em;
